@@ -1,0 +1,9 @@
+D:\Stepmania Corruptor\Stepmania Corruptor\bin\Release\Stepmania Corruptor.exe
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania_Corruptor.window.resources
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania Corruptor.csproj.GenerateResource.Cache
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania Corruptor.exe
+F:\Stepmania Corruptor\Stepmania Corruptor\bin\Release\Stepmania Corruptor.exe
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\ResolveAssemblyReference.cache
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania_Corruptor.window.resources
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania Corruptor.csproj.GenerateResource.Cache
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Release\Stepmania Corruptor.exe

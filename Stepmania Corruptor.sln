@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepmania Corruptor", "Stepmania Corruptor\Stepmania Corruptor.csproj", "{91813FC5-754F-4BB9-A7F0-AF238CB20917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advancedoptions", "advancedoptions\advancedoptions\advancedoptions.csproj", "{FD2481ED-E055-4FA4-B093-B797FC0741A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91813FC5-754F-4BB9-A7F0-AF238CB20917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91813FC5-754F-4BB9-A7F0-AF238CB20917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91813FC5-754F-4BB9-A7F0-AF238CB20917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91813FC5-754F-4BB9-A7F0-AF238CB20917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2481ED-E055-4FA4-B093-B797FC0741A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2481ED-E055-4FA4-B093-B797FC0741A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2481ED-E055-4FA4-B093-B797FC0741A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2481ED-E055-4FA4-B093-B797FC0741A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

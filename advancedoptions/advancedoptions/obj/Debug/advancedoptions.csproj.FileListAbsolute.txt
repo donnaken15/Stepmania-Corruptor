@@ -1,0 +1,7 @@
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\obj\Debug\advancedoptions.csprojResolveAssemblyReference.cache
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\obj\Debug\advancedoptions.MainForm.resources
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\obj\Debug\advancedoptions.csproj.GenerateResource.Cache
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\bin\Debug\advancedoptions.exe
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\bin\Debug\advancedoptions.pdb
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\obj\Debug\advancedoptions.exe
+F:\Stepmania Corruptor\advancedoptions\advancedoptions\obj\Debug\advancedoptions.pdb

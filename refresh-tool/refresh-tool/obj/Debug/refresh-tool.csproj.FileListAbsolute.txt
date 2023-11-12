@@ -1,0 +1,5 @@
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\obj\Debug\refresh-tool.csprojResolveAssemblyReference.cache
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\bin\Debug\refresh-tool.exe
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\bin\Debug\refresh-tool.pdb
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\obj\Debug\refresh-tool.exe
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\obj\Debug\refresh-tool.pdb

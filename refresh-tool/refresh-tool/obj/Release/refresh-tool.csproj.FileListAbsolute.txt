@@ -1,0 +1,3 @@
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\bin\Release\refresh-tool.exe
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\obj\Release\refresh-tool.csprojResolveAssemblyReference.cache
+F:\Stepmania Corruptor\refresh-tool\refresh-tool\obj\Release\refresh-tool.exe

@@ -1,0 +1,14 @@
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.csprojResolveAssemblyReference.cache
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania_Corruptor.window.resources
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.csproj.GenerateResource.Cache
+D:\Stepmania Corruptor\Stepmania Corruptor\bin\Debug\Stepmania Corruptor.exe
+D:\Stepmania Corruptor\Stepmania Corruptor\bin\Debug\Stepmania Corruptor.pdb
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.exe
+D:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.pdb
+F:\Stepmania Corruptor\Stepmania Corruptor\bin\Debug\Stepmania Corruptor.exe
+F:\Stepmania Corruptor\Stepmania Corruptor\bin\Debug\Stepmania Corruptor.pdb
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania_Corruptor.window.resources
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.csproj.GenerateResource.Cache
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.exe
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\Stepmania Corruptor.pdb
+F:\Stepmania Corruptor\Stepmania Corruptor\obj\Debug\ResolveAssemblyReference.cache
